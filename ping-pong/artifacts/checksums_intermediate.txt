@@ -1,0 +1,1 @@
+4b3cbc0a20829e5b5606fcb5d14a96f1eaf7c71371437136361e5f16d6fd6220  ./target/wasm32-unknown-unknown/release/ping_pong.wasm
