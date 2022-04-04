@@ -1,0 +1,1 @@
+7e3fca234a41c7592fe94c716a5a5dc356b7bc46f0c00eabfdff79b6e20a3bb4  rock_paper_scissors.wasm
